@@ -92,7 +92,7 @@
 ## Recent Blog Posts  
 
 
-### https://write.geeksforgeeks.org/post/3735424  
+### https://www.geeksforgeeks.org/pre-order-post-order-and-in-order-traversal-of-a-binary-tree-in-one-traversal-using-recursion/  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
