@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Thilak Reddy</div>  
+### <div align="center">I'm Thilak Reddy. Software Engineer since 2021</div>  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
