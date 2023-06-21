@@ -6,11 +6,7 @@
 ### <div align="center">I'm Thilak Reddy</div>  
   
 - 🧑‍🔬 Software Engineer since 2021
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
