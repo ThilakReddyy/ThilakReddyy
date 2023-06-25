@@ -1,83 +1,56 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+# Welcome to My GitHub Profile!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thilakreddyy/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__thilak_reddy__/)
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=wordpress)]()
+
+## About Me
+
+Hi there! I'm Thilak Reddy, a passionate Software Developer from Telangana, India. I love to automate everything. Through my GitHub projects, I aim to automate everything that is possible and make them into website/software.
+
+## Skills
+
+- Programming Languages: Python, C, C++, Java, JavaScript, C#
+- Frameworks and Technologies: Django, NodeJs, SpringBoot, React js, Next js, Tailwind css
+- Other Skills: Git, Github, Problem Solving, web Scraping and automation, Googling
+
+## Projects
+
+### JNTUH RESULTS - WEB
+
+- **Description:** This project aims to provide students of JNTUH University with an efficient way of accessing their own semester results as well as those of their classmates. With just a single click, students will be able to view their academic performance throughout the semesters.
   
+- **Technologies Used:** Next js, TailwindCss
 
-### <div align="center">I'm Thilak Reddy</div>  
+- **GitHub Repository:** [link](https://github.com/ThilakReddyy/JNTUHRESULTS-WEB/)
+
+### JNTUHRESULTS-SERVICE 
+
+- Description: The API service of JNTUHRESULTS-WEB where all the semester results of a student and the results of all the classmates are fetched
   
-- 🧑‍🔬 Software Engineer since 2021
-
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/ThilakReddyy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/__thilak_reddy__/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://linkedin.com/in/thilakreddyy" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+- Technologies Used: Django, Beautifulsoup, aiohttp
   
+- **GitHub Repository:** [link](https://github.com/ThilakReddyy/JNTUHRESULTS-SERVICE/)
 
-<br/>  
+###  TS-SSC-RESULTS-WEB 
 
+- **Description:** This project aims to provide 10th students of telangana with an efficient way of accessing their own results as well as those of their classmates. With just a single click, students will be able to view their academic performance and compare it with their classmates.
+  
+- **Technologies Used:** Next js, TailwindCss
+  
+- **GitHub Repository:** [link](https://github.com/ThilakReddyy/TS-SSC-RESULTS-WEB/)
+
+### SURVEILLANCE-SYSTEM-USING-FACE-RECOGNITION
+
+- **Description:** This project is a surveillance system that utilizes face recognition technology to enhance security on a college campus. The system is designed to identify and track individuals by comparing their facial features with a pre-existing database of enrolled students faces.
+- **Technologies Used:** Django, Beautifulsoup, opencv-python
+- **GitHub Repository:** [link](https://github.com/ThilakReddyy/SURVEILLANCE-SYSTEM-USING-FACE-RECOGNITION)
+
+If you'd like to collaborate on any projects or have any questions, feel free to reach out to me!
+
+
+
+If you'd like to collaborate on any projects or have any questions, feel free to reach out to me!
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thilakreddyy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -85,30 +58,28 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Blog Posts
+
+I occasionally write blog posts on topics related to Software and alogirthms. Check out some of my recent articles:
+
+- [Pre-order-post-order-and-in-order-traversal-of-a-binary-tree-in-one-traversal-using-recursion](https://www.geeksforgeeks.org/pre-order-post-order-and-in-order-traversal-of-a-binary-tree-in-one-traversal-using-recursion/)
+- [How to make projects using postman](https://www.geeksforgeeks.org/how-to-make-automation-projects-using-postman/
+)
 
 
 
-<!-- BLOG-POST-LIST:START -->  
-### https://www.geeksforgeeks.org/pre-order-post-order-and-in-order-traversal-of-a-binary-tree-in-one-traversal-using-recursion/  
-### https://www.geeksforgeeks.org/how-to-make-automation-projects-using-postman/
-<!-- BLOG-POST-LIST:END -->  
 
-<br/>  
+## Connect with Me
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31yqavls5fpcatdeghmj2mdu5w5m&cover_image=true&theme=default" /></div>  
+I love connecting with fellow developers and professionals. You can find me on various platforms:
 
-<br/>  
+- LinkedIn: https://www.linkedin.com/in/thilakreddyy/
+- Instagram : https://www.instagram.com/__thilak_reddy__/
+- Website: 
+
+Feel free to drop me a message or connect with me. I'd be happy to chat and collaborate!
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ThilakReddyy&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
