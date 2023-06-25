@@ -49,9 +49,6 @@ Hi there! I'm Thilak Reddy, a passionate Software Developer from Telangana, Indi
 If you'd like to collaborate on any projects or have any questions, feel free to reach out to me!
 
 
-
-If you'd like to collaborate on any projects or have any questions, feel free to reach out to me!
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thilakreddyy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -60,13 +57,11 @@ If you'd like to collaborate on any projects or have any questions, feel free to
 
 ## Blog Posts
 
-I occasionally write blog posts on topics related to Software and alogirthms. Check out some of my recent articles:
+I occasionally write blog posts on topics related to Software and algorithms. Check out some of my recent articles:
 
 - [Pre-order-post-order-and-in-order-traversal-of-a-binary-tree-in-one-traversal-using-recursion](https://www.geeksforgeeks.org/pre-order-post-order-and-in-order-traversal-of-a-binary-tree-in-one-traversal-using-recursion/)
 - [How to make projects using postman](https://www.geeksforgeeks.org/how-to-make-automation-projects-using-postman/
 )
-
-
 
 
 ## Connect with Me
