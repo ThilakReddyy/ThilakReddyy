@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thilakreddyy/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__thilak_reddy__/)
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=wordpress)]()
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=wordpress)](https://thilakreddy.vercel.app/)
 
 ## About Me
 
@@ -70,7 +70,7 @@ I love connecting with fellow developers and professionals. You can find me on v
 
 - LinkedIn: https://www.linkedin.com/in/thilakreddyy/
 - Instagram : https://www.instagram.com/__thilak_reddy__/
-- Website: 
+- Website: https://thilakreddy.vercel.app/
 
 Feel free to drop me a message or connect with me. I'd be happy to chat and collaborate!
 
