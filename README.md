@@ -30,7 +30,7 @@ Hi there! I'm Thilak Reddy, a passionate Software Developer from Telangana, Indi
   
 - Technologies Used: FastApi, rabbitmq, redis, postgresql, prometheus, grafana, AWS(EC2, S3), cloudflare
   
-- **GitHub Repository:** [link](https://github.com/ThilakReddyy/jntuhresults-backend/)
+- **GitHub Repository:** [link](https://github.com/ThilakReddyy/jntuh-backend/)
 
 
 
