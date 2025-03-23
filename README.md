@@ -28,23 +28,11 @@ Hi there! I'm Thilak Reddy, a passionate Software Developer from Telangana, Indi
 
 - Description: The API service of JNTUHRESULTS-WEB where all the semester results of a student and the results of all the classmates are fetched
   
-- Technologies Used: Django, Beautifulsoup, aiohttp
+- Technologies Used: FastApi, rabbitmq, redis, postgresql, prometheus, grafana, AWS(EC2, S3), cloudflare
   
-- **GitHub Repository:** [link](https://github.com/ThilakReddyy/JNTUHRESULTS-SERVICE/)
+- **GitHub Repository:** [link](https://github.com/ThilakReddyy/jntuhresults-backend/)
 
-###  TS-SSC-RESULTS-WEB 
 
-- **Description:** This project aims to provide 10th students of telangana with an efficient way of accessing their own results as well as those of their classmates. With just a single click, students will be able to view their academic performance and compare it with their classmates.
-  
-- **Technologies Used:** Next js, TailwindCss
-  
-- **GitHub Repository:** [link](https://github.com/ThilakReddyy/TS-SSC-RESULTS-WEB/)
-
-### SURVEILLANCE-SYSTEM-USING-FACE-RECOGNITION
-
-- **Description:** This project is a surveillance system that utilizes face recognition technology to enhance security on a college campus. The system is designed to identify and track individuals by comparing their facial features with a pre-existing database of enrolled students faces.
-- **Technologies Used:** Django, Beautifulsoup, opencv-python
-- **GitHub Repository:** [link](https://github.com/ThilakReddyy/SURVEILLANCE-SYSTEM-USING-FACE-RECOGNITION)
 
 If you'd like to collaborate on any projects or have any questions, feel free to reach out to me!
 
