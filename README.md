@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thilakreddyy/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__thilak_reddy__/)
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=wordpress)](https://thilakreddy.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=wordpress)](https://thilakreddypothuganti.com/)
 
 ## About Me
 
