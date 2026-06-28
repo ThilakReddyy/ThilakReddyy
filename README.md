@@ -95,7 +95,10 @@ A centralized exam-results platform for JNTU Hyderabad that I independently desi
 ## ✍️ Blog Posts
 
 I occasionally write about software and algorithms:
-
+- [How I Scaled my website from a Simple Script to 22K+ API Calls Daily](https://medium.com/@thilakreddy/how-i-scaled-jntuh-results-vercel-from-a-simple-script-to-22k-api-calls-daily-e3e3052fff32)
+- [Me and the Me: Devil’s Innocent Story](https://thilakreddy.medium.com/me-and-me-devils-innocent-story-8730abae18fd)
+- [Avoiding Undefined Behavior in C++: Insights into Array Index Bounds Checking ( left > nums.size()-1 vs left >= nums.size())](https://thilakreddy.medium.com/avoiding-undefined-behavior-in-c-insights-into-array-index-bounds-checking-6c1f935d3e02)
+- [Automating C++ Compilation Ctrl+B and Execution in Neovim](https://thilakreddy.medium.com/nvimautomating-c-compilation-ctrl-b-and-execution-in-neovim-f4d75b3ec00e)
 - [Pre-order, post-order, and in-order traversal of a binary tree in one traversal using recursion](https://www.geeksforgeeks.org/pre-order-post-order-and-in-order-traversal-of-a-binary-tree-in-one-traversal-using-recursion/)
 - [How to make automation projects using Postman](https://www.geeksforgeeks.org/how-to-make-automation-projects-using-postman/)
 
