@@ -81,10 +81,19 @@ A centralized exam-results platform for JNTU Hyderabad that I independently desi
 - ⚡ **Sub-40 ms** results-fetching across all semesters
 - 🔄 Asynchronous processing with RabbitMQ and optimized caching with Redis
 - ☁️ Deployed on AWS EC2 with Docker; full observability via Prometheus, Grafana, and Loki
+- 🤖 Native Android app built with Kotlin, Jetpack Compose, Material 3, Clean Architecture, Hilt, Retrofit, Room, DataStore, and Firebase Cloud Messaging 
+- 🍎 Native iOS app built with Swift 6, SwiftUI, Observation, Swift Concurrency, URLSession, Codable, XcodeGen, Swift Testing, and XCTest
 
-**Tech:** FastAPI · Next.js · RabbitMQ · Redis · PostgreSQL · AWS EC2 · Docker · Prometheus · Grafana · Cloudflare
+  
+  Backend & Web: FastAPI · Next.js · RabbitMQ · Redis · PostgreSQL · Cloudflare
 
-📦 [Frontend](https://github.com/ThilakReddyy/JNTUHRESULTS-WEB/) · [Backend](https://github.com/ThilakReddyy/jntuh-backend/)
+  Infrastructure: AWS EC2 · Docker · Prometheus · Grafana · Loki
+
+  Android: Kotlin · Jetpack Compose · Material 3 · Clean Architecture · Hilt · Retrofit · Gson · Room · Navigation Compose · DataStore · Firebase Cloud Messaging
+
+  iOS: Swift 6 · SwiftUI · Observation · Swift Concurrency · URLSession · Codable · NavigationStack · SFSafariViewController · XcodeGen · Swift Testing · XCTest
+
+📦 [Frontend](https://github.com/ThilakReddyy/JNTUHRESULTS-WEB/) · [Backend](https://github.com/ThilakReddyy/jntuh-backend/) · [Android](https://github.com/ThilakReddyy/jntuhconnect) · [ios](https://github.com/ThilakReddyy/jntuhconnect-ios)
 
 ## 🧰 Other Projects
 
